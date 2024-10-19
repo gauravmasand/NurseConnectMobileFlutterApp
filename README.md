@@ -73,11 +73,11 @@ NeuralBytes ensures the fastest response time for critical health emergencies by
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/neuralbytes.git
-   cd neuralbytes```
+   cd neuralbytes
 
 2. Navigate to the App directory:
 
 3. Install Flutter dependencies:
 ```bash
-flutter pub get```
+flutter pub get
 
