@@ -78,6 +78,6 @@ NeuralBytes ensures the fastest response time for critical health emergencies by
 2. Navigate to the App directory:
 
 3. Install Flutter dependencies:
-```bash
-flutter pub get
+  ```bash
+  flutter pub get
 
