@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "477151675027",
+    "project_id": "kakshak-ccezkm",
+    "storage_bucket": "kakshak-ccezkm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477151675027:android:ee94f7ce6a0bea5eb5c366",
+        "android_client_info": {
+          "package_name": "com.rakshak.nurse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYoEV48vZEPsozPAwD5zYD2FPfJ0K4TNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477151675027:android:c6c1b64c66f00129b5c366",
+        "android_client_info": {
+          "package_name": "com.rakshak.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYoEV48vZEPsozPAwD5zYD2FPfJ0K4TNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
