@@ -66,8 +66,10 @@ NeuralBytes ensures the fastest response time for critical health emergencies by
 ### Prerequisites
 - Flutter SDK
 - Node.js
+- Express
 - Firebase Account
 - Google Maps API Key
+- MongoDB
 
 ### Installation
 1. Clone the repository:
